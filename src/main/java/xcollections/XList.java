@@ -60,7 +60,7 @@ public class XList<E> extends ArrayList<E>{
 		return parameterClass;
 	}
 
-// Aca pongo algunos utils.
+// Aca pongo algunos utils..
 	
 	public XList<E> getInverse(){
 		XList<E> inverse = new XList<E>();
