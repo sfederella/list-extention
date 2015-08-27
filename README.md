@@ -17,6 +17,6 @@ And the following dependecy:
 		<dependency>
 			<groupId>com.github.sfederella</groupId>
 			<artifactId>extended-collections</artifactId>
-			<version>1.0-alpha</version>
+			<version>1.0-beta</version>
 		</dependency>
 	</dependencies>
