@@ -1,6 +1,6 @@
 # List Extention for Java 8
 
-<b>This is a simple extention to the Java lists, its main porpouse is that the java developers could use collections with a less verbouse and more intuitive interface.</b>
+<b>This is a simple extention to the Java lists, its main porpouse is that the Java developers could use collections with a less verbouse and more intuitive interface.</b>
 
 To add this library to your maven project you have to add the following repository in the POM.xml:
 #
