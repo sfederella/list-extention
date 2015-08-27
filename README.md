@@ -1,6 +1,6 @@
-# Extended Collections for Java
+# List Extention for Java 8
 
-<b>This is a simple extention to the Java collections, its main porpouse is that the programmers could use collections with a less verbouse and more intuitive interface.</b>
+<b>This is a simple extention to the Java lists, its main porpouse is that the java developers could use collections with a less verbouse and more intuitive interface.</b>
 
 To add this library to your maven project you have to add the following repository in the POM.xml:
 #
@@ -16,7 +16,7 @@ And the following dependecy:
 	<dependencies>
 		<dependency>
 			<groupId>com.github.sfederella</groupId>
-			<artifactId>extended-collections</artifactId>
-			<version>1.0-beta</version>
+			<artifactId>list-extention</artifactId>
+			<version>1.0</version>
 		</dependency>
 	</dependencies>
